@@ -1,0 +1,21 @@
+/* .picture-profile {
+    display: block;
+    max-width: 100%;
+} */
+
+.block-red {
+    background-color: red;
+}
+
+.circulo {
+    width: 160px;
+    height: 130px;
+    border-radius: 50%;
+    overflow: hidden;
+    float: left;
+    margin: 15px;
+}
+
+.texto-sobre {
+    max-width: 500px;
+}
