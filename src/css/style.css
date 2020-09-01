@@ -7,6 +7,17 @@
     background-color: red;
 }
 
+.card-ajuste {
+    max-width: 18rem;
+    min-width: 100;
+}
+
+.card-posicao-imagem {
+    /* object-fit: cover;
+    object-position: 0 80%; */
+    max-width: 80%;
+}
+
 .circulo {
     width: 160px;
     height: 130px;
