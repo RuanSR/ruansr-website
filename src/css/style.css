@@ -28,9 +28,12 @@
 }
 
 .circulo-tecnologias {
-    width: 180px;
-    height: 170px;
+    max-width: 120px;
+    min-height: 115px;
     border-radius: 50%;
+    border-style: double;
+    border-color: skyblue;
+    background-color: snow;
 }
 
 .card-cleaner {
@@ -45,4 +48,5 @@
 .redes-socias-footer{
     max-width: 30px;
     min-width: 30px;
+    margin: 3px;
 }
